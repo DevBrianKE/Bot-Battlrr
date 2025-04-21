@@ -11,7 +11,7 @@ This web application is designed to demonstrate core React concepts such as comp
 ## Technologies Used
 
 - React.js
-- JavaScript (ES6+)
+- JavaScript 
 - HTML5 & CSS3
 - Git & GitHub
 - JSON Server (for backend simulation)
@@ -54,9 +54,6 @@ The app will open automatically at http://localhost:3000/.
 - View battles and manage your team
 - Delete bots from your army when needed
 
-## Live Demo
-
-Visit the Live Site
 
 ## Contributing
 
