@@ -2,7 +2,7 @@
 
 **Bot Battlr** is an interactive React-based game that allows users to engage in fun bot battles. Users can select their favorite bots and see them clash on the battlefield.
 
-![Bot Battlr Screenshot](https://your-image-link-if-any.png)
+![Bot Battlr Screenshot](image.png)
 
 ## Project Description
 
